@@ -37,6 +37,6 @@
 - [朔の開発メモ](/notes-development-saku.md)
 - 朔の新しいキャッシュ構造
 
-* 掲示板メニュー
+## 掲示板メニュー
 - [雑談](http://bbs.shingetsu.info/thread.cgi/%E9%9B%91%E8%AB%87)
 - [新月の開発](http://bbs.shingetsu.info/thread.cgi/%E6%96%B0%E6%9C%88%E3%81%AE%E9%96%8B%E7%99%BA)

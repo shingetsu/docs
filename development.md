@@ -25,8 +25,8 @@ SourceForge.netでアカウントを取得し、新月上でアカウント名�
 こまめな報告も大切です。
 
 ## 現在の開発者
--Fuktommy氏
--sbwhitecap氏（白帽子 pRqBriWgNGG）
--Alef-null氏
--stokesia氏
--d0467fb5氏
+- Fuktommy氏
+- sbwhitecap氏（白帽子 pRqBriWgNGG）
+- Alef-null氏
+- stokesia氏
+- d0467fb5氏
