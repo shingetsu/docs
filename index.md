@@ -8,14 +8,10 @@
 ## 掲示板
 - http://bbs.shingetsu.info/
 - http://rep4649.ddo.jp:8000/
-- http://shingetu.fe100.net
-- http://shingetsu.ygch.net
 - http://bbs.shingetsu.info/gw ランダムジャンプ
 
 ## 情報源
-- http://www.dive2shingetsu.appspot.com/ - 初心者向け利用ガイド
 - http://shingetsu.wiki.fc2.com/ - 新月黙示録 ～P2P掲示板新月～
-- http://anago.2ch.net/test/read.cgi/software/1263169440/l50 - 2chのスレ 新月 - P2P匿名掲示板その2
 
 ## コンテンツ
 - [チュートリアル](/tutorial.md) - 新月の使い方
@@ -38,5 +34,5 @@
 - 朔の新しいキャッシュ構造
 
 ## 掲示板メニュー
-- [雑談](http://bbs.shingetsu.info/thread.cgi/%E9%9B%91%E8%AB%87)
-- [新月の開発](http://bbs.shingetsu.info/thread.cgi/%E6%96%B0%E6%9C%88%E3%81%AE%E9%96%8B%E7%99%BA)
+- [雑談](https://bbs.shingetsu.info/thread.cgi/%E9%9B%91%E8%AB%87)
+- [新月の開発](https://bbs.shingetsu.info/thread.cgi/%E6%96%B0%E6%9C%88%E3%81%AE%E9%96%8B%E7%99%BA)
