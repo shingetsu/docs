@@ -6,12 +6,12 @@
 ソフトウェアをダウンロードして掲示板を運営することもできます。
 
 ## 掲示板
-- http://bbs.shingetsu.info/
-- http://rep4649.ddo.jp:8000/
-- http://bbs.shingetsu.info/gw ランダムジャンプ
+- https://bbs.shingetsu.info/
+- https://bbs.rep4649.freemyip.com/
+- https://bbs.shingetsu.info/gw ランダムジャンプ
 
 ## 情報源
-- http://shingetsu.wiki.fc2.com/ - 新月黙示録 ～P2P掲示板新月～
+- https://shingetsu.wiki.fc2.com/ - 新月黙示録 ～P2P掲示板新月～
 
 ## コンテンツ
 - [チュートリアル](/tutorial.md) - 新月の使い方

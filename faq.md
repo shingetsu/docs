@@ -2,7 +2,7 @@
 
 質問スレッドのやつのまとめ
 
-[質問スレッドのdae59ad1](http://bbs.shingetsu.info/thread.cgi/%e8%b3%aa%e5%95%8f%e3%82%b9%e3%83%ac%e3%83%83%e3%83%89/dae59ad1)
+[質問スレッドのdae59ad1](https://bbs.shingetsu.info/thread.cgi/%e8%b3%aa%e5%95%8f%e3%82%b9%e3%83%ac%e3%83%83%e3%83%89/dae59ad1)
 このあたりから始まっているやつのまとめ。
 
 ## Q. 投稿順序が入れ替わる？
@@ -34,7 +34,7 @@ hoven使ってないからわかんないけど、【】で囲めばなんでも
 
 ## Q. 2chにスレあったけどなんでこっちでやらないの?
 
-## Q. LAN内の他のPCから新着スレ一覧を見れるようにするにはどうすればいいんでしょうか？http://bbs.shingetsu.info/thread.cgi/%E6%96%B0%E6%9C%88%E3%81%AE%E8%A8%AD%E5%AE%9A/68657a9c
+## Q. LAN内の他のPCから新着スレ一覧を見れるようにするにはどうすればいいんでしょうか？https://bbs.shingetsu.info/thread.cgi/%E6%96%B0%E6%9C%88%E3%81%AE%E8%A8%AD%E5%AE%9A/68657a9c
 - A. 設定ファイル saku.ini に↓。（環境により設定値は違うので注意）
 
     friend: ^192.168.

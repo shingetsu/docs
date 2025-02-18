@@ -6,7 +6,7 @@
 
 2007-01-17の朔2.6.0から正式に追加されました。
 
-解説 http://shingetsu.info/manage/tag
+解説 https://shingetsu.info/manage/tag
 
 有志は編集よろw
 

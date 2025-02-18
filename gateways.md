@@ -7,5 +7,5 @@
 
 | URL | スレ立 | レス | メモ |
 | --- | ------ | ---- | ---- |
-| http://bbs.shingetsu.info/gateway.cgi | NG | OK | 公式 |
-| http://rep4649.ddo.jp:8000/gateway.cgi | NG | OK |  |
+| https://bbs.shingetsu.info | NG | OK | 公式 |
+| https://bbs.rep4649.freemyip.com | OK | OK |  |

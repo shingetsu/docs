@@ -6,10 +6,10 @@
 ## 新月とは
 新月とは不特定多数のコンピューターを直接接続してひとつの掲示板を構築するシステムです。またシステムが提供する掲示板サービスも新月と呼びます。
 
-新月は現在、朔(さく) http://shingetsu.info/saku/ というソフトウェアを稼動させることで掲示板ネットワークとサービスを提供しています。
+新月は現在、朔(さく) https://shingetsu.info/saku/ というソフトウェアを稼動させることで掲示板ネットワークとサービスを提供しています。
 
-- [新月の紹介](http://shingetsu.info/intro/)
-- [Wikipedia](http://ja.wikipedia.org/wiki/%E6%96%B0%E6%9C%88_%28%E6%8E%B2%E7%A4%BA%E6%9D%BF%29)
+- [新月の紹介](https://shingetsu.info/intro/)
+- [Wikipedia](https://ja.wikipedia.org/wiki/%E6%96%B0%E6%9C%88_%28%E6%8E%B2%E7%A4%BA%E6%9D%BF%29)
 
 ### 新月の特徴
 新月の特徴は **不特定多数のコンピューターを直接接続する技術を用いて掲示板サービスを提供する** ことです。
@@ -19,7 +19,7 @@
 
 新月用通信ソフト (朔、 NanaSHI など) が不特定多数のコンピューターを繋ぎ、掲示板への書き込みを新月ネットワーク全体へ伝播させます。ユーザはいつでも書き込み、閲覧できますが、だれがどこから書き込んだのか知ることは困難で、 匿名性が高い掲示板 (発言者の身元が特定しにくいということ。絶対に特定できないわけではない。) になっています。
 
-参考ページ http://shingetsu.info/tutorial/original
+参考ページ https://shingetsu.info/tutorial/original
 
 
 ### 新月の利用方法
@@ -30,19 +30,17 @@
 
 掲示板の利用は公開ゲートウェイを使用します。ただし他人のコンピューターを経由して掲示板を利用することになるので匿名性の点では弱いです。
 
-2009 年 10 月現在、安定して運用されている公開ゲートウェイ
+2025 年 2 月現在、安定して運用されている公開ゲートウェイ
 
-- http://bbs.shingetsu.info/
-- http://pushare.zenno.info/
-- http://rep4649.ddo.jp/
-- http://sg.sabaitiba.com/
+- https://bbs.shingetsu.info/
+- https://bbs.rep4649.freemyip.com/
 
 どれを使ってもかまいませんが、一部の機能が制限されている公開ゲートウェイがあります(ゲートウェイとして動作している **朔** という新月ネットワークを構築するソフトウェアを自分のコンピューターにインストールすればすべての機能が使えます)。
 
 #### 匿名掲示板として
 新月用通信ソフトをあなたのパソコンで動かせば匿名性の高い掲示板として利用できます。この利用方法では、あなたは掲示板の利用者であり管理者でもあります。
 
-新月用通信ソフトウェア **朔(さく)** を使う http://shingetsu.info/saku/
+新月用通信ソフトウェア **朔(さく)** を使う https://shingetsu.info/saku/
 
 ### 新月のメリット
 新月は他の掲示板と比較して次のような利点があります。
@@ -80,12 +78,10 @@
 
 次のURLの一覧から適当なゲートウェイにアクセスしてください。
 
-2009 年 10 月現在、安定して運用されている公開ゲートウェイ
+2025 年 2 月現在、安定して運用されている公開ゲートウェイ
 
-- http://bbs.shingetsu.info/
-- http://pushare.zenno.info/
-- http://rep4649.ddo.jp/
-- http://sg.sabaitiba.com/
+- https://bbs.shingetsu.info/
+- https://bbs.rep4649.freemyip.com/
 
 「一覧」から興味のあるスレッドを探して発言してください。
 
@@ -94,18 +90,18 @@
 ### 匿名掲示板として
 匿名性の高い掲示板として新月を利用するには、 **あなたのコンピュータが新月の一部を支えなければなりません** 。自分のコンピュータで新月に参加するために、専用のソフトウェアをインストールしてください。
 
-現在は[朔(さく)](http://shingetsu.info/saku/)というソフトウェアが、新月への参加を可能にする唯一のソフトウェアです。
+現在は[朔(さく)](https://shingetsu.info/saku/)というソフトウェアが、新月への参加を可能にする唯一のソフトウェアです。
 
 朔は常時動かしている必要はありません。あなたがコンピュータにログイン(サインイン)している間に起動していれば構いません。
 
 #### 朔を使う
 朔には1つのエディションがあります。
 
-- **共通版** (Python スクリプト版) は別途 [Python](http://www.python.org) (3.4以降) をインストールして使うもので、WindowsでもUnixでも動きます。 
+- **共通版** (Python スクリプト版) は別途 [Python](https://www.python.org) (3.9以降) をインストールして使うもので、WindowsでもUnixでも動きます。
 
 #### ダウンロード
-通常はこちらにある「安定版」をダウンロードしてください: 
-http://shingetsu.info/saku/
+通常はこちらにある「安定版」をダウンロードしてください:
+https://shingetsu.info/saku/
 
 #### 起動
 1. コマンドの実行
@@ -120,7 +116,7 @@ http://shingetsu.info/saku/
 
 あなたのPCのある環境にルータという機器がある場合、ポートを開ける必要のある場合があります。ルータには自動的にポートを開放する機能(UPnP機能 -- 注1)もあるので、設定の必要のないこともあります。
 
-ルータを用いずにインターネットに直結しているコンピュータは、ファイアウォールなどで制限しない限り、朔をそのまま使えます。(プライベートIP割り当てのCATVインターネット回線を除く: [参考](http://www.akakagemaru.info/port/catv.html))
+ルータを用いずにインターネットに直結しているコンピュータは、ファイアウォールなどで制限しない限り、朔をそのまま使えます。(プライベートIP割り当てのCATVインターネット回線を除く: [参考](https://www.akakagemaru.info/port/catv.html))
 
 しかし、多くの場合は1本の接続(ADSL、光ファイバーなど)をルータを使って何台かのPCで共有しています。このような場合、あなたのPCはインターネットから隔てられたネットワーク(LAN)上にあるため、インターネット上の他のPCと **直接** 接続することができないのです。
 
@@ -130,9 +126,9 @@ http://shingetsu.info/saku/
 1. PCの現在のプライベートIPアドレス・サブネットマスク・デフォルトゲートウェイ(=ルータのIPアドレス)を調べる。
 2. PCのIPアドレスを「自動的に取得」から固定のものにする
     - (1)で調べた値を入力。プライベートIPアドレスはメモっておく
-    - 同時にDNSサーバーのIPも必要になる。デフォルトゲートウェイorプロバの書類に書いてあるor 208.67.222.222 208.67.220.220 ([OpenDNS](http://www.opendns.com))
-    - 参考: [WindowsのIPアドレス固定する方法一覧](http://www.akakagemaru.info/port/ip-kotei.html)
-3. ルータの設定画面に移る。各社設定方法は違うので、説明書を見るか[このサイト](http://www.akakagemaru.info/port/index.html)などを参考に。
+    - 同時にDNSサーバーのIPも必要になる。デフォルトゲートウェイorプロバの書類に書いてあるor 208.67.222.222 208.67.220.220 ([OpenDNS](https://www.opendns.com))
+    - 参考: [WindowsのIPアドレス固定する方法一覧](https://www.akakagemaru.info/port/ip-kotei.html)
+3. ルータの設定画面に移る。各社設定方法は違うので、説明書を見るか[このサイト](https://www.akakagemaru.info/port/index.html)などを参考に。
 4. 以下のようなNAPT(静的IPマスカレード)設定を追加する。
     - WAN側ポート: 8000-8000
     - プロトコル: TCP
@@ -140,29 +136,29 @@ http://shingetsu.info/saku/
     - 転送ポート: 8000
 5. ルータの設定を反映させたら完了！
 
-- 参考1: http://www.akakagemaru.info/port/index.html
-- 参考2: [ポート開放の確認](http://www.akakagemaru.info/port/tcpport.php)
+- 参考1: https://www.akakagemaru.info/port/index.html
+- 参考2: [ポート開放の確認](https://www.akakagemaru.info/port/tcpport.php)
 - 注1(UPnP機能): ネットワーク(LAN)内のPCのソフトからの要求に応じて、ルータが自動的にポートの開放や情報更新を行う機能です。P2Pソフトとルータの両方が対応している必要があります。
 
 ### コンピュータ資源を提供する
 ### その他
 
 ## 新月の詳しい仕組み
-- [書き込みすると何が起こるのか](http://shingetsu.info/manage/post)
+- [書き込みすると何が起こるのか](https://shingetsu.info/manage/post)
 
 ## 管理者向けガイド
-- [管理者向け情報](http://shingetsu.info/manage/)
+- [管理者向け情報](https://shingetsu.info/manage/)
 
 ### 掲示板の管理
 ### 朔のカスタマイズ
 
 ## 開発者になろう!
-- JavaScriptやりたいなら http://shingetsu.info/extension/
-- ノードを実装したいなら http://shingetsu.info/protocol/protocol-0.7.d1
-- 連携ツール作るなら http://shingetsu.info/tech/cache とか http://shingetsu.info/saku/api
-- [技術情報](http://shingetsu.info/tech/)
+- JavaScriptやりたいなら https://shingetsu.info/extension/
+- ノードを実装したいなら https://shingetsu.info/protocol/protocol-0.8.d1
+- 連携ツール作るなら https://shingetsu.info/tech/cache とか https://shingetsu.info/saku/api
+- [技術情報](https://shingetsu.info/tech/)
 
 ## 質問など
--[質問スレッド](http://bbs.shingetsu.info/thread.cgi/%e8%b3%aa%e5%95%8f%e3%82%b9%e3%83%ac%e3%83%83%e3%83%89) 新月や朔に関する質問
--[新月の開発](http://bbs.shingetsu.info/thread.cgi/%e6%96%b0%e6%9c%88%e3%81%ae%e9%96%8b%e7%99%ba) この文書への質問や意見
+-[質問スレッド](https://bbs.shingetsu.info/thread.cgi/%e8%b3%aa%e5%95%8f%e3%82%b9%e3%83%ac%e3%83%83%e3%83%89) 新月や朔に関する質問
+-[新月の開発](https://bbs.shingetsu.info/thread.cgi/%e6%96%b0%e6%9c%88%e3%81%ae%e9%96%8b%e7%99%ba) この文書への質問や意見
 

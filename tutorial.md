@@ -2,7 +2,7 @@
 
 これは新月掲示板に投稿された「新月初心者の館」をもとにしています。
 
-朔の設定については朔設定ガイド http://shingetsu.info/saku/config をご覧ください。
+朔の設定については朔設定ガイド https://shingetsu.info/saku/config をご覧ください。
 
 ## 新月の起動と接続
 

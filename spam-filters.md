@@ -63,7 +63,7 @@ URLを10回以上書いてるとBANG!
 ## 手で消す時用
  「新月の開発」スレから転載。考えてくれた人サンクス！
 （使い方は次のリンクの、2.プログラムコードが直接書かれている場合を参照のこと
-http://d.hatena.ne.jp/keyword/%A5%D6%A5%C3%A5%AF%A5%DE%A1%BC%A5%AF%A5%EC%A5%C3%A5%C8）
+https://d.hatena.ne.jp/keyword/%A5%D6%A5%C3%A5%AF%A5%DE%A1%BC%A5%AF%A5%EC%A5%C3%A5%C8）
 
     チェックボックスを全部チェックするブックマークレット
     javascript:(function(){c=document.getElementsByTagName("input");for(i=0;i<c.length;i++){c[i].checked=true;}}())

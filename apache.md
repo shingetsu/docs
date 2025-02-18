@@ -124,7 +124,7 @@ http://bbs.example.com/ にアクセスできるか確認してください。
 ## 自動実行の設定
 通常、ゲートウェイとして機能させるにはこのmkrss.pyを10分間隔くらいで自動実行させる必要があります。
 
-ここでは[cronNT](http://www.vector.co.jp/soft/winnt/util/se232096.html)というフリーソフトを使うことにします（このような自動実行させるソフトはいくつかあります）。
+ここでは[cronNT](https://www.vector.co.jp/soft/winnt/util/se232096.html)というフリーソフトを使うことにします（このような自動実行させるソフトはいくつかあります）。
 
 はじめにmkrss.pyを実行させるためのバッチファイルをつくります。以下の内容でc:\saku\mkrss.batを作ってください。
 
@@ -143,4 +143,4 @@ crontab.iniに次の１行を追加してください。
 これですべての作業は完了しました。お疲れさまでした。
 
 ## 参考
-[Apacheと朔を組み合わせて使う方法](http://shingetsu.info/manage/apache)
+[Apacheと朔を組み合わせて使う方法](https://shingetsu.info/manage/apache)

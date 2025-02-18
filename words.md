@@ -1,6 +1,6 @@
 # 用語集
 
-[【新月】【朔】【Hoven】用語集](http://bbs.shingetsu.info/thread.cgi/%E3%80%90%E6%96%B0%E6%9C%88%E3%80%91%E3%80%90%E6%9C%94%E3%80%91%E3%80%90Hoven%E3%80%91%E7%94%A8%E8%AA%9E%E9%9B%86)より
+[【新月】【朔】【Hoven】用語集](https://bbs.shingetsu.info/thread.cgi/%E3%80%90%E6%96%B0%E6%9C%88%E3%80%91%E3%80%90%E6%9C%94%E3%80%91%E3%80%90Hoven%E3%80%91%E7%94%A8%E8%AA%9E%E9%9B%86)より
 
 新月や朔、Hovenでは、他の掲示板システムとは異なる概念・用語を用いることがあります。用語が理解できないとチュートリアルや解説も難解に感じてしまい、不便が多いので、用語の意味をメモするスレッドを作ることにしました。
 この「【新月】【朔】【Hoven】用語集」スレッドでは、用語をひとつずつ取り上げ、簡単にまとめていきましょう。
@@ -8,7 +8,7 @@
 新月は発展途上の掲示板システムですから、理解が間違っていたり、まとめに不備があったり、用語の内容が変更されたりする場合があります。すこしずつ改訂していきましょう。
 
 参照
-[新月初心者の館 - チュートリアル](http://shingetsu.info/tutorial/#thread)
+[新月初心者の館 - チュートリアル](httpsgit@github.com:shingetsu/docs.git://shingetsu.info/tutorial/#thread)
 
 ## 新月 (しんげつ)
 
@@ -36,12 +36,11 @@
 
 公開ゲートウェイからの書き込みには匿名性がなく、新規スレッドの取得機能が利用できないなど機能制限されているものもある。
 公開ゲートウェイを利用する場合と、自分のPCに朔などをインストールした場合の違いは
-、[新月をインストールするメリット](http://shingetsu.info/manage/merit)に具体的に書いてあります。
+、[新月をインストールするメリット](https://shingetsu.info/manage/merit)に具体的に書いてあります。
 
 - 新月公認の公開ゲートウェイ
-    - http://bbs.shingetsu.info/
-    - http://fuktommy.ddo.jp/
-    - http://pushare.zenno.info/
+    - https://bbs.shingetsu.info/
+    - https://bbs.rep4649.freemyip.com/
 
 ## 署名 (しょめい)
 
