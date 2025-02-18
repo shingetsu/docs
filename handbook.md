@@ -159,6 +159,5 @@ https://shingetsu.info/saku/
 - [技術情報](https://shingetsu.info/tech/)
 
 ## 質問など
--[質問スレッド](https://bbs.shingetsu.info/thread.cgi/%e8%b3%aa%e5%95%8f%e3%82%b9%e3%83%ac%e3%83%83%e3%83%89) 新月や朔に関する質問
--[新月の開発](https://bbs.shingetsu.info/thread.cgi/%e6%96%b0%e6%9c%88%e3%81%ae%e9%96%8b%e7%99%ba) この文書への質問や意見
-
+- [質問スレッド](https://bbs.shingetsu.info/thread.cgi/%e8%b3%aa%e5%95%8f%e3%82%b9%e3%83%ac%e3%83%83%e3%83%89) 新月や朔に関する質問
+- [新月の開発](https://bbs.shingetsu.info/thread.cgi/%e6%96%b0%e6%9c%88%e3%81%ae%e9%96%8b%e7%99%ba) この文書への質問や意見

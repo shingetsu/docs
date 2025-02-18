@@ -8,7 +8,7 @@
 新月は発展途上の掲示板システムですから、理解が間違っていたり、まとめに不備があったり、用語の内容が変更されたりする場合があります。すこしずつ改訂していきましょう。
 
 参照
-[新月初心者の館 - チュートリアル](httpsgit@github.com:shingetsu/docs.git://shingetsu.info/tutorial/#thread)
+[新月初心者の館 - チュートリアル](https://shingetsu.info/tutorial/#thread)
 
 ## 新月 (しんげつ)
 

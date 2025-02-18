@@ -20,18 +20,7 @@
 - [FAQ](/faq.md)
 - [用語集](/words.md)
 - [Apache連携](/apache.md)
-- [タグ機能](/tag.md)
 - [初級スパムフィルタ](/spam-filters-elementary.md)
-- [コテハンリスト](/nicknames.md)
-- [タグリスト](/tags.md)
-
-## 新月の開発
-- [新月の開発](/development.md)
-- [新機能案まとめ](/proposals.md)
-- [現在のバグまとめ](/bugs.md)
-- コーディングスタイル
-- [朔の開発メモ](/notes-development-saku.md)
-- 朔の新しいキャッシュ構造
 
 ## 掲示板メニュー
 - [雑談](https://bbs.shingetsu.info/thread.cgi/%E9%9B%91%E8%AB%87)
