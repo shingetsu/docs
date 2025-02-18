@@ -21,6 +21,7 @@
 - [用語集](/words.md)
 - [Apache連携](/apache.md)
 - [初級スパムフィルタ](/spam-filters-elementary.md)
+- [合の拡張API](/gou-apis.md)
 
 ## 掲示板メニュー
 - [雑談](https://bbs.shingetsu.info/thread.cgi/%E9%9B%91%E8%AB%87)
