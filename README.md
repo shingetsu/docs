@@ -10,6 +10,7 @@
 ## 掲示板
 - https://bbs.shingetsu.info/
 - https://bbs.rep4649.freemyip.com/
+- https://shingetsu.h3z.jp/
 - https://bbs.shingetsu.info/gw ランダムジャンプ
 
 ## 情報源
