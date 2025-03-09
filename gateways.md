@@ -8,4 +8,5 @@
 | URL | スレ立 | レス | メモ |
 | --- | ------ | ---- | ---- |
 | https://bbs.shingetsu.info | NG | OK | 公式 |
+| https://shingetsu.h3z.jp | OK | OK | |
 | https://bbs.rep4649.freemyip.com | OK | OK |  |
