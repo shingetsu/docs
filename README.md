@@ -9,9 +9,8 @@
 
 ## 掲示板
 - https://bbs.shingetsu.info/
-- https://bbs.rep4649.freemyip.com/
-- https://shingetsu.h3z.jp/
 - https://bbs.shingetsu.info/gw ランダムジャンプ
+- [公開ゲートウェイ一覧](gateways.md)
 
 ## 情報源
 - https://shingetsu.wiki.fc2.com/ - 新月黙示録 ～P2P掲示板新月～
